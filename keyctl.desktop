@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Keyboard Controller
+Comment=GUI Keyboard Controller for Tuxedo
+GenericName=Keyboard Controller
+Exec=/usr/bin/keyctlgui
+Icon=/usr/share/pixmaps/input-keyboard-symbolic.svg
+Type=Application
+Categories=Utilities;
+Path=/usr/bin
